@@ -1,0 +1,11 @@
+C:\Users\Raychan\Documents\KuliAhhh\Kuliah\Semester 4\Kontruksi Perangkat Lunak\Tugas Pendahuluan\Tugas Pendahuluan 3\tpmodul3_1302213116\tpmodul3_1302213116\bin\Debug\tpmodul3_1302213116.exe.config
+C:\Users\Raychan\Documents\KuliAhhh\Kuliah\Semester 4\Kontruksi Perangkat Lunak\Tugas Pendahuluan\Tugas Pendahuluan 3\tpmodul3_1302213116\tpmodul3_1302213116\bin\Debug\tpmodul3_1302213116.exe
+C:\Users\Raychan\Documents\KuliAhhh\Kuliah\Semester 4\Kontruksi Perangkat Lunak\Tugas Pendahuluan\Tugas Pendahuluan 3\tpmodul3_1302213116\tpmodul3_1302213116\bin\Debug\tpmodul3_1302213116.pdb
+C:\Users\Raychan\Documents\KuliAhhh\Kuliah\Semester 4\Kontruksi Perangkat Lunak\Tugas Pendahuluan\Tugas Pendahuluan 3\tpmodul3_1302213116\tpmodul3_1302213116\obj\Debug\tpmodul3_1302213116.csproj.AssemblyReference.cache
+C:\Users\Raychan\Documents\KuliAhhh\Kuliah\Semester 4\Kontruksi Perangkat Lunak\Tugas Pendahuluan\Tugas Pendahuluan 3\tpmodul3_1302213116\tpmodul3_1302213116\obj\Debug\tpmodul3_1302213116.csproj.SuggestedBindingRedirects.cache
+C:\Users\Raychan\Documents\KuliAhhh\Kuliah\Semester 4\Kontruksi Perangkat Lunak\Tugas Pendahuluan\Tugas Pendahuluan 3\tpmodul3_1302213116\tpmodul3_1302213116\obj\Debug\tpmodul3_1302213116.Form1.resources
+C:\Users\Raychan\Documents\KuliAhhh\Kuliah\Semester 4\Kontruksi Perangkat Lunak\Tugas Pendahuluan\Tugas Pendahuluan 3\tpmodul3_1302213116\tpmodul3_1302213116\obj\Debug\tpmodul3_1302213116.Properties.Resources.resources
+C:\Users\Raychan\Documents\KuliAhhh\Kuliah\Semester 4\Kontruksi Perangkat Lunak\Tugas Pendahuluan\Tugas Pendahuluan 3\tpmodul3_1302213116\tpmodul3_1302213116\obj\Debug\tpmodul3_1302213116.csproj.GenerateResource.cache
+C:\Users\Raychan\Documents\KuliAhhh\Kuliah\Semester 4\Kontruksi Perangkat Lunak\Tugas Pendahuluan\Tugas Pendahuluan 3\tpmodul3_1302213116\tpmodul3_1302213116\obj\Debug\tpmodul3_1302213116.csproj.CoreCompileInputs.cache
+C:\Users\Raychan\Documents\KuliAhhh\Kuliah\Semester 4\Kontruksi Perangkat Lunak\Tugas Pendahuluan\Tugas Pendahuluan 3\tpmodul3_1302213116\tpmodul3_1302213116\obj\Debug\tpmodul3_1302213116.exe
+C:\Users\Raychan\Documents\KuliAhhh\Kuliah\Semester 4\Kontruksi Perangkat Lunak\Tugas Pendahuluan\Tugas Pendahuluan 3\tpmodul3_1302213116\tpmodul3_1302213116\obj\Debug\tpmodul3_1302213116.pdb
